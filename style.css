@@ -8,6 +8,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: stretch;
+  flex-wrap:wrap;
   width:100% ;
   background-color: #fff;
   border: 2px solid #888;
